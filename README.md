@@ -45,5 +45,5 @@ Combines competitiveness qualities with empathy, respect and sincerity without f
   </kbd>
 </p>
 
-## :) Visitor Count
+## :star_struck: Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/jordiarellano1996/count.svg)
