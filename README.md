@@ -43,5 +43,7 @@ Combines competitiveness qualities with empathy, respect and sincerity without f
     <img width="50px" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png"/>
     <img width="70px" src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png"/>
   </kbd>
-  Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/jordiarellano1996/count.svg)
 </p>
+
+## :) Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/jordiarellano1996/count.svg)
