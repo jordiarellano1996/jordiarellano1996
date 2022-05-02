@@ -18,7 +18,7 @@ Combines competitiveness qualities with empathy, respect and sincerity without f
 - :earth_asia: I'm living now in **Barcelona, Spain**.
 - :monocle_face: I'm interested in coding, hang out with friends and play Padel.
 
-## Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/jordiarellano1996/count.svg)
+# Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/jordiarellano1996/count.svg)
 
 ## 🌐 Technologies
 
