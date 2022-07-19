@@ -14,7 +14,7 @@ Combines competitiveness qualities with empathy, respect and sincerity without f
 
 - :credit_card: My full name is **Jordi Arellano Ballestero**.
 - :school: I'm currently working as software engineer at **IFAE: Institut de Física d'Altes Energies**.
-- :books: My goal is to be an **AI engineer**.
+- :books: My goal is to be an **Computer Vision Engineer**.
 - :earth_asia: I'm living now in **Barcelona, Spain**.
 - :monocle_face: I'm interested in coding, hang out with friends and play Padel.
 
