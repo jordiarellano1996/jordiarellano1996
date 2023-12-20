@@ -6,15 +6,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordiarellano1996@gmail.com)](mailto:jordiarellano1996@gmail.com)
 
 
-A software  engineer 😃 loving facing challenges and passionate about all areas of data analysis and interpretation.
+A Senior Software Engineer specialized in AI Solutions 😃 loving facing challenges and passionate about all areas of data analysis and interpretation.
 Creative, hardworking and capable to achieve the project objectives from scratch to completion.
 Combines competitiveness qualities with empathy, respect and sincerity without forgetting helping others at any time.⚡
 
 ## About Me
 
 - :credit_card: My full name is **Jordi Arellano Ballestero**.
-- :school: I'm currently working as software engineer at **IFAE: Institut de Física d'Altes Energies**.
-- :books: My goal is to be an **Computer Vision Engineer**.
+- :school: I'm currently working as software engineer at **EFI**.
 - :earth_asia: I'm living now in **Barcelona, Spain**.
 - :monocle_face: I'm interested in coding, hang out with friends and play Padel.
 
